@@ -1,0 +1,103 @@
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.exe.config
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.exe
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.pdb
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.xml
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbprojResolveAssemblyReference.cache
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.Resources.resources
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbproj.GenerateResource.Cache
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbproj.CoreCompileInputs.cache
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.exe
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.xml
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.pdb
+F:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.exe.config
+F:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.exe
+F:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.xml
+F:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.pdb
+F:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.exe
+F:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.pdb
+F:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.xml
+F:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbprojResolveAssemblyReference.cache
+F:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.Form1.resources
+F:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.menu_do_jogo.resources
+F:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.Resources.resources
+F:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbproj.GenerateResource.Cache
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbprojResolveAssemblyReference.cache
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.menu_do_jogo.resources
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.Resources.resources
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbproj.GenerateResource.Cache
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbproj.CoreCompileInputs.cache
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.exe
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.xml
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.pdb
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.exe.config
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.exe
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.pdb
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.xml
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.menu_inicial.resources
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.menudearranque.resources
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\bin\Debug\Interop.WMPLib.dll
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\bin\Debug\AxInterop.WMPLib.dll
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\Interop.WMPLib.dll
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\AxInterop.WMPLib.dll
+G:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbproj.ResolveComReference.cache
+F:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\Interop.WMPLib.dll
+F:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\AxInterop.WMPLib.dll
+F:\Aplicações Informáticas\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbproj.ResolveComReference.cache
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbprojResolveAssemblyReference.cache
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\obj\Debug\Interop.WMPLib.dll
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbproj.ResolveComReference.cache
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.menu_inicial.resources
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.menu_do_jogo.resources
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.Resources.resources
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbproj.GenerateResource.Cache
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbproj.CoreCompileInputs.cache
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.exe
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.xml
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.pdb
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.exe.config
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.exe
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.pdb
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.xml
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\bin\Debug\Interop.WMPLib.dll
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\bin\Debug\Interop.AXVLC.dll
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\obj\Debug\Interop.AXVLC.dll
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\antony\Desktop\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.menuarranquefinalporfavorne.resources
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\bin\Debug\Interop.AXVLC.dll
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\bin\Debug\Interop.WMPLib.dll
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\obj\Debug\Interop.AXVLC.dll
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\obj\Debug\Interop.WMPLib.dll
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbproj.ResolveComReference.cache
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.menu_inicial.resources
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.menu_do_jogo.resources
+C:\Users\antony\source\repos\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.Form1.resources
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.exe.config
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.exe
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.pdb
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\bin\Debug\projeto_aplicações.xml
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\bin\Debug\Interop.AXVLC.dll
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\bin\Debug\Interop.WMPLib.dll
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\bin\Debug\AxInterop.AXVLC.dll
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\bin\Debug\AxInterop.WMPLib.dll
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbprojAssemblyReference.cache
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\obj\Debug\Interop.AXVLC.dll
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\obj\Debug\Interop.WMPLib.dll
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\obj\Debug\AxInterop.AXVLC.dll
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\obj\Debug\AxInterop.WMPLib.dll
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbproj.ResolveComReference.cache
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.menu_inicial.resources
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.menu_do_jogo.resources
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.Form1.resources
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.Resources.resources
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbproj.GenerateResource.cache
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.vbproj.CoreCompileInputs.cache
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.exe
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.xml
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support final (sem vídeo)\projeto_aplicações\projeto_aplicações\obj\Debug\projeto_aplicações.pdb
