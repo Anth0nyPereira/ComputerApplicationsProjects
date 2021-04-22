@@ -1,0 +1,57 @@
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\bin\Debug\testeparaprojeto.exe.config
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\bin\Debug\testeparaprojeto.exe
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\bin\Debug\testeparaprojeto.pdb
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\bin\Debug\testeparaprojeto.xml
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\bin\Debug\Interop.AXVLC.dll
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\bin\Debug\AxInterop.AXVLC.dll
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.vbprojResolveAssemblyReference.cache
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\obj\Debug\Interop.AXVLC.dll
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\obj\Debug\AxInterop.AXVLC.dll
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.vbproj.ResolveComReference.cache
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.Resources.resources
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.vbproj.GenerateResource.Cache
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.vbproj.CoreCompileInputs.cache
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.exe
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.xml
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.pdb
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.menu_arranque.resources
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.menu_do_jogo.resources
+c:\users\antony\source\repos\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.menu_inicial.resources
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\bin\Debug\testeparaprojeto.exe.config
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\bin\Debug\testeparaprojeto.exe
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\bin\Debug\testeparaprojeto.pdb
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\bin\Debug\testeparaprojeto.xml
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\bin\Debug\Interop.AXVLC.dll
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.vbprojResolveAssemblyReference.cache
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\Interop.AXVLC.dll
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.vbproj.ResolveComReference.cache
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.menu_arranque.resources
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.menu_do_jogo.resources
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.menu_inicial.resources
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.Resources.resources
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.vbproj.GenerateResource.Cache
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.vbproj.CoreCompileInputs.cache
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.exe
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.xml
+C:\Users\antony\Desktop\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.pdb
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\bin\Debug\testeparaprojeto.exe.config
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\bin\Debug\testeparaprojeto.exe
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\bin\Debug\testeparaprojeto.pdb
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\bin\Debug\testeparaprojeto.xml
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\bin\Debug\Interop.AXVLC.dll
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\bin\Debug\AxInterop.AXVLC.dll
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.vbprojAssemblyReference.cache
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\Interop.AXVLC.dll
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\AxInterop.AXVLC.dll
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.vbproj.ResolveComReference.cache
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.menu_arranque.resources
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.menu_do_jogo.resources
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.menu_inicial.resources
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.Resources.resources
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.vbproj.GenerateResource.cache
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.vbproj.CoreCompileInputs.cache
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.exe
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.xml
+D:\antigo coxmutadoxr\antony\Desktop\Vários\Projeto League of Support (com vídeo)\testeparaprojeto\testeparaprojeto\obj\Debug\testeparaprojeto.pdb

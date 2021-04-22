@@ -1,0 +1,1 @@
+se o valor for diferente do do champ que foi selecionado aleatoriamente, a imagem correspondente ao champ que tem esse valor diferente terá de desaparecer. Se o valor do champ selecionado aleatoriamente, naquela pergunta, for 0, e se, percorrendo a linha, houver valores diferentes de 0 (1), a imagem correspondente terá de desaparecer.
